@@ -1,0 +1,58 @@
+body {
+    font-family: Verdana;
+    background-color: black;
+}
+
+h1 {
+    text-align: center;
+    font-weight: normal;
+    font-size: 3.125em;
+    color: white;
+}
+
+h2 {
+    text-align: center;
+    font-weight:300;
+    font-size: 2.625em;
+    color: white;
+    display: block;
+    padding-top: 1em;
+    align-items: center;
+}
+
+p {
+    font-size: 1.3125em;
+    color: grey;
+    text-align: center;
+}
+video {
+    width: 20%;
+    height: 50%;
+    display: block;
+    margin: auto    ;
+}
+
+.cta {
+    text-align: center;
+    color: aquamarine;
+    font-size: 1em;
+}
+
+a {
+    color: aquamarine;
+}
+
+img {
+    width: 70%;
+    display: block;
+    margin: auto;
+}
+
+.app {
+    height: 10rem;
+    width: 6rem;
+}
+
+footer p {
+    text-align: right;
+}
